@@ -18,7 +18,7 @@ footer: "ECL 2.0 Licensed | Copyright © 2024 Dmytro Kulyk |"
 ---
 
 
-**Виконали:** 
+**Виконав:** 
 
 *студент 2-го курсу, групи ІМ-32*<span padding-right:5em></span> **Володимир ШКАРБАН** [Telegram](https://t.me/Ederatone)
 
